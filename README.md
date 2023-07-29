@@ -1,8 +1,10 @@
 <h1 align="center">Composers List</h1>
 
+
 The "Composers List" GitHub project is a directory of over 4 000 composers providing a valuable resource for music enthusiasts, researchers, and musicians. 
 
-> **Warning** : The .txt file is written in French.
+> [!IMPORTANT]  
+> The .txt file is written in French.
 
 <p align="center">
   <img src="https://github.com/Corentin-Lcs/composers-list/blob/main/Composers.png" alt="Composers.png"/>
